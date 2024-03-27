@@ -29,3 +29,10 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 
 ### Code line
 This is how we write code in line  `let name = "Caraway"`
+
+### Code block
+````js
+let cohort = "Caraway";
+
+let loveMo = true;
+````
