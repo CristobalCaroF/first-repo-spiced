@@ -24,3 +24,8 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 
 ### Image from web
 ![Frog](https://i.natgeofe.com/k/8fa25ea4-6409-47fb-b3cc-4af8e0dc9616/red-eyed-tree-frog-on-leaves-3-2_3x4.jpg)
+
+## Code
+
+### Code line
+This is how we write code in line  `let name = "Caraway"`
