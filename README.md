@@ -21,3 +21,6 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 
 ### Image in repo.
 ![ProfileImage](./cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f.jpg)
+
+### Image from web
+![Frog](https://i.natgeofe.com/k/8fa25ea4-6409-47fb-b3cc-4af8e0dc9616/red-eyed-tree-frog-on-leaves-3-2_3x4.jpg)
