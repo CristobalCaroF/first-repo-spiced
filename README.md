@@ -16,3 +16,8 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 
 ##  Link a page
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+## Image
+
+### Image in repo.
+![cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f.jpg][./cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f.jpg]
