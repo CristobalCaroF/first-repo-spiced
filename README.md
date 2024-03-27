@@ -20,7 +20,7 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 ## Image
 
 ### Image in repo.
-![ProfileImage](./cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f.jpg)
+![Toti](./Totito01.jpeg)
 
 ![Bear](./animals/bear.png)
 ![Dog](./animals/dogs/dog01.png)
