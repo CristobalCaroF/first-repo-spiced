@@ -20,4 +20,4 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 ## Image
 
 ### Image in repo.
-![cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f][./cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f.jpg]
+![ProfileImage](./cb8dc92e-9f8d-426a-9c99-ae7d1ff9901f.jpg)
