@@ -31,8 +31,12 @@ Today we are learning GitHub and Markdown. In the afternoon we will do the compu
 This is how we write code in line  `let name = "Caraway"`
 
 ### Code block
-````js
+```js
 let cohort = "Caraway";
 
 let loveMo = true;
-````
+```
+
+```
+This is a Code Block
+```
