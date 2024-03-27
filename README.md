@@ -1,2 +1,3 @@
-# first-repo-spiced
+# Hello people
 First repository for Spiced academys bootcamp
+
